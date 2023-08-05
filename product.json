@@ -1,0 +1,96 @@
+[
+    {
+        "id":1,
+        "name":"Trendy Tribe Cap 1",
+        "price":700,
+        "detail":"Light intricate windy Cap 1",
+        "image":"assets/pro1.jpg"
+      
+    },
+    {
+        "id":2,
+        "name":"Trendy Tribe Cap 2",
+        "price":500,
+        "detail":"Light intricate windy Cap 2",
+        "image":"assets/pro2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Trendy Tribe Cap 3",
+        "price":900,
+        "detail":"Light intricate windy Cap 3",
+        "image":"assets/pro3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Trendy Tribe Cap 4",
+        "price":900,
+        "detail":"Light intricate windy Cap 4",
+        "image":"assets/pro4.jpg"
+    },
+    {
+        "id":5,
+        "name":"Trendy Tribe Cap 5",
+        "price":900,
+        "detail":"Light intricate windy Cap 5",
+        "image":"assets/pro5.jpg"
+    },
+    {
+        "id":6,
+        "name":"Trendy Tribe Cap 6",
+        "price":600,
+        "detail":"Light intricate 6 cap",
+        "image":"assets/pro6.jpg"
+    },
+    {
+        "id":7,
+        "name":"Trendy Tribe cap 7",
+        "price":500,
+        "detail":"Light intricate 7 cap",
+        "image":"assets/pro7.jpg"
+    },
+    {
+        "id":8,
+        "name":"Trendy Tribe cap 8",
+        "price":600,
+        "detail":"Light intricate 8 cap",
+        "image":"assets/pro8.jpg"
+    },
+    {
+        "id":9,
+        "name":"Trendy Tribe cap 9",
+        "price":800,
+        "detail":"Light intricate 9 cap",
+        "image":"assets/pro9.jpg"
+    },
+    {
+        "id":10,
+        "name":"Crown Hat 1",
+        "price":700,
+        "detail":"Light intricate 1 Hat",
+        "image":"assets/hat1.jpg"
+    },
+    {
+        "id":11,
+        "name":"Crown Hat 2",
+        "price":500,
+        "detail":"Light intricate 2 Hat",
+        "image":"assets/hat2.jpg"
+    },
+    {
+        "id":12,
+        "name":"Crown Hat 3",
+        "price":900,
+        "detail":"Light intricate 3 Hat",
+        "image":"assets/hat3.jpg"
+    },
+    {
+        "id":13,
+        "name":"Crown Hat 4",
+        "price":900,
+        "detail":"Light intricate 4 Hat",
+        "image":"assets/hat4.jpg"
+    }
+   
+
+]
